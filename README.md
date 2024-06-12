@@ -8,7 +8,7 @@ This program allows the user to input a number corresponding to a student and di
 
 1. Clone the repository:
 
-git clone  https://github.com/your-username/student-information-program.git
+git clone  https://https://github.com/griffinsgri4/student-information-program.git
 
  
 2. Compile the program:
